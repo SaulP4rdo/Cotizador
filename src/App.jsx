@@ -1,5 +1,6 @@
+import Appseguro from "./components/Appseguro";
 function App() {
-  return <h1>App</h1>;
+  return <Appseguro />;
 }
 
 export default App;
