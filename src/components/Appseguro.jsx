@@ -1,4 +1,5 @@
 import Formulario from "./Formulario";
+import useCotizador from "../hooks/useCotizador";
 
 const Appseguro = () => {
   return (
